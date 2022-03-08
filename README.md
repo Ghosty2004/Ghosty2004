@@ -1,7 +1,7 @@
 
 Hi there! 👋
 
-[![Discord Presence](https://pe-promenada.agency/discord/userBanner/334979056095199233)](https://discord.com/users/334979056095199233)
+[![Discord Presence](https://pe-promenada.agency/discord/user/banner/334979056095199233)](https://discord.com/users/334979056095199233)
 
 <h1>Languages what I use</h1>
 
