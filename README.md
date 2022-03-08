@@ -1,6 +1,6 @@
 Hi there! 👋
 
-<img src="https://pe-promenada.agency/discord/user/banner/334979056095199233">
+<img src="https://pe-promenada.agency/discord/user/banner/334979056095199233?v=3">
 
 <h1>Languages what I use</h1>
 
