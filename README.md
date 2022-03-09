@@ -1,6 +1,6 @@
 Hi there! 
 
-[![Discord Presence](https://pe-promenada.agency/discordUserBanner/334979056095199233)](https://discord.com/users/334979056095199233)
+[![Discord Presence](http://pe-promenada.agency/discordUserBanner/334979056095199233)](https://discord.com/users/334979056095199233)
 
 <h1>Languages what I use</h1>
 
