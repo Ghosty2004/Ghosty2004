@@ -1,4 +1,4 @@
-Hi there! 
+Hi there! 👋
 
 [![Discord Presence](https://pe-promenada.agency/discord/signature/334979056095199233)](https://discord.com/users/334979056095199233)
 
