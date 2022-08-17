@@ -2,7 +2,7 @@ Hi there! 👋
 
 [![Discord Presence](https://pe-promenada.agency/discord/signature/334979056095199233)](https://discord.com/users/334979056095199233)
 
-<h1>Languages what I use</h1>
+<h1>Tools what I use</h1>
 
 **Backend**
 
