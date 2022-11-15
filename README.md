@@ -12,6 +12,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/express/FFF" />
+  <h4><img height="16" width="16" src="https://cdn-icons-png.flaticon.com/128/586/586293.png" /> Databases</h4>
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
   <h4><img height="16" width="16" src="https://cdn-icons-png.flaticon.com/128/1850/1850687.png" /> Tools</h4>
