@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hi there! 👋</h3>
+  <h3>Hi there! <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/128/4643/4643291.png" /></h3>
   <img src="https://pe-promenada.agency/discord/signature/334979056095199233" />
   <h4><img height="16" width="16" src="https://cdn-icons-png.flaticon.com/128/1159/1159283.png" /> Languages</h4>
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
