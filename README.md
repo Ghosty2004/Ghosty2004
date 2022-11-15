@@ -1,10 +1,24 @@
-Hi there! 👋
+<div style="display: flex;" align="center">
+  <h3>Hi there! 👋</h3>
+  <img src="https://pe-promenada.agency/discord/signature/334979056095199233" />
+  <h4>Languages and tools</h4>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/lua" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/express/FFF" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" />
+</div>
 
-[![Discord Presence](https://pe-promenada.agency/discord/signature/334979056095199233)](https://discord.com/users/334979056095199233)
-
-<h1>Tools what I use</h1>
-
-**Backend**
+<!--**Backend**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -28,4 +42,4 @@ Hi there! 👋
 **IDE**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)-->
