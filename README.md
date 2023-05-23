@@ -1,23 +1,16 @@
-<div align="center">
-  <h3>Hi there! <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/128/4643/4643291.png" /></h3>
-  <h4><img height="16" width="16" src="https://cdn-icons-png.flaticon.com/128/1159/1159283.png" /> Languages and frameworks</h4>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/lua" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/express/FFF" />
-  <h4><img height="16" width="16" src="https://cdn-icons-png.flaticon.com/128/586/586293.png" /> Databases</h4>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-  <h4><img height="16" width="16" src="https://cdn-icons-png.flaticon.com/128/1850/1850687.png" /> Tools</h4>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/github/FFF" />
-</div>
+# Ghosty2004
+Hey there! 👋 I'm Ghosty2004, a passionate developer who loves to explore new technologies and has a strong affinity for the TypeScript programming language.
+
+# Tools & Technologies
+A list of what tools and technologies I use
+
+[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css,sass,lua,python,react,electron,express,mysql,mongodb,visualstudio,vscode,git,github)](https://skillicons.dev)
+
+# Get in touch with me
+You can contact me through the following platforms
+
+- <img src="https://skillicons.dev/icons?i=discord" width="15" height="15" align="center"> : [`ghosty#1337`](https://discord.com/users/334979056095199233)
+- <img src="https://skillicons.dev/icons?i=twitter" width="15" height="15" align="center"> : [`@ghostz2004`](https://twitter.com/ghostz2004)
+
+# Quick Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghosty2004&show_icons=true&theme=dark)
