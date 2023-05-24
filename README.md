@@ -13,4 +13,7 @@ You can contact me through the following platforms
 - <img src="https://skillicons.dev/icons?i=twitter" width="15" height="15" align="center"> : [`@ghostz2004`](https://twitter.com/ghostz2004)
 
 # Quick Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghosty2004&show_icons=true&theme=dark)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghosty2004&count_private=true&show_icons=true&theme=dark" width="500" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosty2004&&theme=dark" width="500" />
