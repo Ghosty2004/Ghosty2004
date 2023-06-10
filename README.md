@@ -9,7 +9,7 @@ A list of what tools and technologies I use
 # Get in touch with me
 You can contact me through the following platforms
 
-- <img src="https://skillicons.dev/icons?i=discord" width="15" height="15" align="center"> : [`ghosty2004`](https://discord.com/users/334979056095199233)
+- <img src="https://skillicons.dev/icons?i=discord" width="15" height="15" align="center"> : [`@ghosty2004`](https://discord.com/users/334979056095199233)
 - <img src="https://skillicons.dev/icons?i=twitter" width="15" height="15" align="center"> : [`@ghostz2004`](https://twitter.com/ghostz2004)
 
 # Quick Statistics
