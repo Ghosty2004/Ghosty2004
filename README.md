@@ -1,6 +1,8 @@
 # Ghosty2004
 Hey there! 👋 I'm Ghosty2004, a passionate developer who loves to explore new technologies and has a strong affinity for the TypeScript programming language.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/334979056095199233)](https://discord.com/users/334979056095199233)
+
 # Tools & Technologies
 A list of what tools and technologies I use
 
