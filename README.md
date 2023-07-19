@@ -6,7 +6,7 @@ Hey there! 👋 I'm Ghosty2004, a passionate developer who loves to explore new 
 # Tools & Technologies
 A list of what tools and technologies I use
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css,sass,lua,python,react,nextjs,electron,express,mysql,mongodb,visualstudio,vscode,git,github,linux,raspberrypi,nginx)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css,sass,lua,python,react,vue,nextjs,electron,express,mysql,mongodb,visualstudio,vscode,git,github,linux,raspberrypi,nginx)](https://skillicons.dev)
 
 # Get in touch with me
 You can contact me through the following platforms
