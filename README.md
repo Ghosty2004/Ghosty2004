@@ -3,6 +3,9 @@ Hey there! 👋 I'm Ghosty2004, a passionate developer who loves to explore new 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/334979056095199233)](https://discord.com/users/334979056095199233)
 
+- 🛠️ I'm currently working on [Empire Super Stunt](https://github.com/Empire-Super-Stunt-GTA-V) (Romania GTA:V SERVER)
+- 🌱 I'm currently learning Rust <img src="https://skillicons.dev/icons?i=rust" width="15" height="15" align="center"/>
+
 # Tools & Technologies
 A list of what tools and technologies I use
 
