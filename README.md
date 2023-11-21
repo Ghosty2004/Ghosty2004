@@ -23,5 +23,3 @@ You can contact me through the following platforms
 # Quick Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=ghosty2004&count_private=true&show_icons=true&theme=dark" width="500" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosty2004&&theme=dark" width="500" />
