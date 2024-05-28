@@ -21,4 +21,6 @@ You can contact me through the following platforms
 
 # Quick Statistics
 
+<img src="https://komarev.com/ghpvc/?username=ghosty2004&color=3a7de0&style=flat-square" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=ghosty2004&count_private=true&show_icons=true&theme=dark" width="500" />
