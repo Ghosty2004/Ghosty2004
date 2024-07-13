@@ -1,7 +1,7 @@
 # Ghosty2004
 Hey there! 👋 I'm Ghosty2004, a passionate developer who loves to explore new technologies.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/334979056095199233)](https://discord.com/users/334979056095199233)
+[![Discord Presence](http://discord-profile-embed.ghosty2004.dev/334979056095199233?nocache)](https://discord.com/users/334979056095199233)
 
 - 🛠️ I'm currently working on:
   - [Empire Super Stunt](https://github.com/Empire-Super-Stunt) (Romanian GTA:V server powered by rage.mp)
